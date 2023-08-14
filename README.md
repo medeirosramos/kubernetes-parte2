@@ -7,3 +7,7 @@ Deployment
 `kubectl get deployment`
 
 ReplicaSet -> Deployment
+
+
+Volume (aula 2)
+pod-volume.yaml
